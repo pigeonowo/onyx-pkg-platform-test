@@ -1,0 +1,7 @@
+#load "./../lib/packages"
+
+use core {println}
+
+main :: () {
+    println("Hello Onyx!");
+}
